@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @calise-t
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Number row characters  
+! - Exclamation mark  
+@ - 	At sign  
+\# - Hash, pound sign  
+$ - Dollar sign  
+% - Percent sign  
+^ - Caret, Hat operator  
+& - Ampersand  
+\* - Asterisk  
+( - Open Bracket  
+) - Close Bracket  
 
-<!---
-calise-t/calise-t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Links  
+[Portfolio] (https://calise-t.github.io/#)  
+[George Brwon College] (https://www.georgebrown.ca/)  
+
+Experiments  
+:spades:  
+:hearts:  
+:clubs:  
+:diamonds:  
+
+
